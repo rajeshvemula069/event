@@ -1,0 +1,6 @@
+export const INCREMENTACTION ={
+    TYPE :'INCREMENT'
+}
+ export const DRCFREMENTACTION ={
+    TYPE :'DECREMENT'
+}
